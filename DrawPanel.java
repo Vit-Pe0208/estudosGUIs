@@ -27,20 +27,7 @@ public class DrawPanel extends JPanel
 		g.drawLine(0, 0, 20, 175);
 		g.drawLine(0, 0, 10, 200);
 		
-		g.drawLine(0,200,10,0);
-		g.drawLine(0, 185, 25, 0);
-		g.drawLine(0,  170, 40,0);
-		g.drawLine(0, 155, 55,0);
-		g.drawLine(0, 140, 70,0);
-		g.drawLine(0, 125, 85,0);
-		g.drawLine(0, 110, 100,0);
-		g.drawLine(0, 95, 115,0);
-		g.drawLine(0, 80, 130,0);
-		g.drawLine(0, 65, 145,0);
-		g.drawLine(0, 50, 155,0);
-		g.drawLine(0, 35, 165,0);
-		g.drawLine(0, 20, 175,0);
-		g.drawLine(0, 10, 200,0);
+		
 		
 		
 
